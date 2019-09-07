@@ -7,7 +7,7 @@
 
 
 ## Introduction
-#### Big Data Analysis
+### Big Data Analysis
 (Airline Dataset 1987 - 2008)
 - Map Reduce (Hadoop)
 - PIG
@@ -18,12 +18,11 @@
 - Neo4j
 
 
-Table of Contents
-1. About Dataset
+### Table of Contents
+#### 1. About Dataset
 
-Analysis Performed: 
-
-2. Map – Reduction using Hadoop
+#### Analysis Performed: 
+#### 2. Map – Reduction using Hadoop
 - Bloom Filter: Source and Destination Test (Filter Pattern Algorithms) 
 - Delay and Scheduled flights based on Year
 - Busiest Airport in10 years & percentage using (Recommendation System)
@@ -40,34 +39,34 @@ Analysis Performed:
 - Standard deviation, Mean Distance in each year
 - Distributed Grep (Filter Pattern Algorithm)
 
-3. PIG
+#### 3. PIG
 - Create schema from the script Schema.pig
 - Top 20 cities by total volume of flights
 - Busy Routes
 - Proportion of Flights Delayed
 - Carrier Popularity
 
-4. HIVE
+#### 4. HIVE
 - Schema creation
 - Flights that started late but reached on time
 - Flights that travel less than 1000 miles
 - Count of flights for each Carrier
 
-5. Sentiment Analysis
+#### 5. Sentiment Analysis
 - Analyzing Tweets of POTUS from twitter using vader lexicon dictionary
 
-6. AMAZON EMR
+#### 6. AMAZON EMR
 - Top 10 Busiest Airport with percentage
 Business Visualization
 
-7. TABLEAU
+#### 7. TABLEAU
 - Dashboard 1
 - Dashboard 2
 
-8. Graph Database
+#### 8. Graph Database
 - Neo4j
 
-About Dataset:
+#### About Dataset:
 The Dataset of the flight records in USA is available on http://statcomputing.
 org/dataexpo/2009/the-data.html. The data is available from year 1987 to 2008.
 It has many columns which can be helpful in Map Reduction analysis. Once it is done, more
