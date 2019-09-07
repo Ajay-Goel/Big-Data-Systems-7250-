@@ -24,43 +24,49 @@ Table of Contents
 Analysis Performed: 
 
 2. Map – Reduction using Hadoop
-2.1 Bloom Filter: Source and Destination Test (Filter Pattern Algorithms) 
-2.2 Delay and Scheduled flights based on Year
-2.3 Busiest Airport in10 years & percentage using (Recommendation System)
-2.4 Number of flights visits each month (Counter Algorithm) 
-2.5 From each source, destination is indexed (Inverted Index Algorithm)
-2.6 Binning Algorithm: Creating bins on the bases of codes (Data Organisation Algorithm)
-2.7 Most Visited Destination (TOP 10 Algorithm)
-2.8 Carrieer and Source Join (Joins: Inner Join)
-2.9 Hierarchy Algorithm (XML Creation using Data Organization Pattern Algorithm)
-2.10 WORST 20 Flights (Filter Pattern Algorithm)
-2.11 Sampling using low scoring probability (Filter Pattern Algorithm)
-2.12 Finding unique sources
-2.13 Total Number of flights in each year (Min Max Tuple)
-2.14 Standard deviation, Mean Distance in each year
-2.15 Distributed Grep (Filter Pattern Algorithm)
+- Bloom Filter: Source and Destination Test (Filter Pattern Algorithms) 
+- Delay and Scheduled flights based on Year
+- Busiest Airport in10 years & percentage using (Recommendation System)
+- Number of flights visits each month (Counter Algorithm) 
+- From each source, destination is indexed (Inverted Index Algorithm)
+- Binning Algorithm: Creating bins on the bases of codes (Data Organisation Algorithm)
+- Most Visited Destination (TOP 10 Algorithm)
+- Carrieer and Source Join (Joins: Inner Join)
+- Hierarchy Algorithm (XML Creation using Data Organization Pattern Algorithm)
+- WORST 20 Flights (Filter Pattern Algorithm)
+- Sampling using low scoring probability (Filter Pattern Algorithm)
+- Finding unique sources
+- Total Number of flights in each year (Min Max Tuple)
+- Standard deviation, Mean Distance in each year
+- Distributed Grep (Filter Pattern Algorithm)
+
 3. PIG
-3.1 Create schema from the script Schema.pig
-3.2 Top 20 cities by total volume of flights
-3.3 Busy Routes
-3.4 Proportion of Flights Delayed
-3.5 Carrier Popularity
+- Create schema from the script Schema.pig
+- Top 20 cities by total volume of flights
+- Busy Routes
+- Proportion of Flights Delayed
+- Carrier Popularity
+
 4. HIVE
-4.1 Schema creation
-4.2 Flights that started late but reached on time
-4.3 Flights that travel less than 1000 miles
-4.4 Count of flights for each Carrier
+- Schema creation
+- Flights that started late but reached on time
+- Flights that travel less than 1000 miles
+- Count of flights for each Carrier
+
 5. Sentiment Analysis
-5.1 Analyzing Tweets of POTUS from twitter using vader lexicon dictionary
+- Analyzing Tweets of POTUS from twitter using vader lexicon dictionary
+
 6. AMAZON EMR
-6.1 Top 10 Busiest Airport with percentage
+- Top 10 Busiest Airport with percentage
 Business Visualization
+
 7. TABLEAU
-7.1 Dashboard 1
-7.2 Dashboard 2
+- Dashboard 1
+- Dashboard 2
+
 8. Graph Database
-8.1 Neo4j
-REFERENCES
+- Neo4j
+
 About Dataset:
 The Dataset of the flight records in USA is available on http://statcomputing.
 org/dataexpo/2009/the-data.html. The data is available from year 1987 to 2008.
