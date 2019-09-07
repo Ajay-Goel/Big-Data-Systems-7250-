@@ -24,8 +24,11 @@ Table of Contents
 Analysis Performed: 
 
 2. Map – Reduction using Hadoop
+
 2.1 Bloom Filter: Source and Destination Test (Filter Pattern Algorithms) 
+
 2.2 Delay and Scheduled flights based on Year
+
 2.3 Busiest Airport in10 years & percentage using (Recommendation System)
 2.4 Number of flights visits each month (Counter Algorithm) 
 2.5 From each source, destination is indexed (Inverted Index Algorithm)
