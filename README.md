@@ -21,8 +21,6 @@
 Table of Contents
 1. About Dataset
 
-1.1 Tools Used
-
 Analysis Performed: 
 
 2. Map – Reduction using Hadoop
