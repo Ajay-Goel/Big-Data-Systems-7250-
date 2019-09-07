@@ -73,5 +73,4 @@ It has many columns which can be helpful in Map Reduction analysis. Once it is d
 analysis on the basis of aggregation or various important points can be done using Pig, Hive,
 HBase.
 
-### A short presentation to get the understating of working of the project with code and output snippets in file named: ProjectReport_Goel_Ajay_001897443_bkp6.pdf
-[I'm an inline-style link](https://github.com/Ajay-Goel/Big-Data/blob/master/ProjectReport_Goel_Ajay_001897443_bkp6.pdf)
+### A short presentation to get the understating of working of the project with code and output snippets in file named: [ProjectReport_Goel_Ajay_001897443_bkp6.pdf](https://github.com/Ajay-Goel/Big-Data/blob/master/ProjectReport_Goel_Ajay_001897443_bkp6.pdf)
