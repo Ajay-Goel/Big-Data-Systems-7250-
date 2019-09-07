@@ -1,8 +1,12 @@
 # Big-Data
+
 # Big Data Analysis using Airline Data set, 1987-2008 (Hadoop🐘, Java, Pig🐷, Hive🐝, HBase🐬, Amazon EMR, Python, Tableau📊, Neo4j🌴)
 # Engineering of Big Data Systems
 
 - Ajay Goel
+
+![alt text](https://github.com/Ajay-Goel/Big-Data/blob/master/Project/Media/shutterstockhadoop_elephant_in_words%20(2).jpg)
+
 
 ## Introduction
 #### Big Data Analysis
@@ -107,8 +111,6 @@ weather, C = NAS, D = security)
 | Cat         | Soccer     | Apple      |
 | Dog         | Basketball | Orange     |
 ***/
-
-![alt text](https://github.com/Ajay-Goel/Big-Data/blob/master/Project/Media/shutterstockhadoop_elephant_in_words%20(2).jpg)
 
 
 A short presentation to get the understating of working of the project with code and output snippets in file named: ProjectReport_Goel_Ajay_001897443_bkp6.pdf
