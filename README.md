@@ -1,5 +1,3 @@
-# Big-Data
-
 # Big Data Analysis using Airline Data set, 1987-2008 (Hadoop🐘, Java, Pig🐷, Hive🐝, HBase🐬, Amazon EMR, Python, Tableau📊, Neo4j🌴)
 # Engineering of Big Data Systems
 
