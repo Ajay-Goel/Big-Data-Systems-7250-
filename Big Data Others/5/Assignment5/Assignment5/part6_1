@@ -1,0 +1,6 @@
+movieData = LOAD '/Users/ajaygoel/Documents/Neu/BigData/Assignments/Assignment5/ml-1m/movies.dat' USING PigStorage(':') AS (UserID,temp1,Movie,temp2,Genres);
+ratingsData = LOAD '/Users/ajaygoel/Documents/Neu/BigData/Assignments/Assignment5/ml-1m/ratings.dat' USING PigStorage(':') AS (UserID,temp1,MovieID,temp2,Rating,temp3,Timestamp);
+joinData = JOIN movieData BY UserID, ratingsData BY UserID;
+sortedData = ORDER joinData BY Rating DESC;
+top25 = LIMIT sortedData 25;
+dump top25;

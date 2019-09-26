@@ -1,0 +1,30 @@
+
+chars=( {a..z} )
+i=0
+for filename in `hadoop fs -ls /Assignment4/NYSE | awk '{print $NF}' | grep .csv$ | tr '\n' ' '`
+do 
+	echo $filename;
+	hadoop jar /Users/ajaygoel/.m2/repository/com/ajay/mr/Lab5/1.0-SNAPSHOT/Lab5-1.0-SNAPSHOT.jar part3.Driver $filename /Assignment4/Result_Part2/"${chars[i++]}"
+done
+
+
+
+chars=( {a..z} )
+i=0
+for filename in `hadoop fs -ls /Assignment4/NYSE | awk '{print $NF}' | grep .csv$ | tr '\n' ' '`
+do 
+	echo $filename;
+	hadoop jar /Users/ajaygoel/.m2/repository/com/ajay/mr/Lab5/1.0-SNAPSHOT/Lab5-1.0-SNAPSHOT.jar part5.Driver $filename /Assignment4/Result_Part7/"${chars[i++]}"
+done
+
+chars=( {a..z} )
+i=0
+for filename in `hadoop fs -ls /Assignment4/NYSE | awk '{print $NF}' | grep .csv$ | tr '\n' ' '`
+do 
+	echo $filename;
+	hadoop jar /Users/ajaygoel/.m2/repository/com/ajay/mr/Lab5/1.0-SNAPSHOT/Lab5-1.0-SNAPSHOT.jar part7.Driver $filename /Assignment4/Result_Part7/"${chars[i++]}"
+done
+
+
+
+hadoop jar /Users/ajaygoel/.m2/repository/com/ajay/mr/Lab5/1.0-SNAPSHOT/Lab5-1.0-SNAPSHOT.jar part7.Driver /Assignment4/NYSE/NYSE_daily_prices_A.csv /Assignment4/Result_Part7

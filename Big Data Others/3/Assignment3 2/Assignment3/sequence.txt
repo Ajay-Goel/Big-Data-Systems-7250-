@@ -1,0 +1,1 @@
+SEQorg.apache.hadoop.io.Textorg.apache.hadoop.io.Text

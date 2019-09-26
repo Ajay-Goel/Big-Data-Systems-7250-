@@ -1,0 +1,11 @@
+
+[EmpNo  DOB             FName   LName           HireDate        DeptNo]
+10001   1953-09-02      Georgi  Facello M       1986-06-26      d005
+10002   1964-06-02      Bezalel Simmel  F       1985-11-21      d007
+10003   1959-11-04      Ajay	Goel	M       1986-09-21      d004
+10004   1949-02-05      Virat	Kohli	M       1986-08-23      d002
+10005   1939-08-06      Yuvraj	Singh	M       1986-07-05      d001
+10006   1929-05-07      Mahen	Dhoni	M       1986-06-08      d003
+10007   1949-03-08      Rohit	Sharma	M       1986-05-18      d004
+10008   1929-09-09      Sachin	Tendul	M       1986-05-28      d006
+10009   1979-04-03      Saurav	Ganguly	M       1986-04-11      d007
